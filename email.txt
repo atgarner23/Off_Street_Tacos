@@ -1,0 +1,25 @@
+*|MC_PREVIEW_TEXT|*
+
+This Week at Off Street Tacos
+
+This week in the shop, we kicked off our big Summer Tent Sale. We are running great deals on all camping gear through the end of May.
+
+Speaking of camping, We have detailing the pros and cons of different ways to camp while on the trail.
+
+============================================================
+** Facebook (http://www.facebook.com)
+** Twitter (http://www.twitter.com/)
+** Link (http://www.instagram.com/)
+** Website (http://mailchimp.com)
+Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+
+Our mailing address is:
+*|LIST_ADDRESS|* *|END:IF|*
+
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*
